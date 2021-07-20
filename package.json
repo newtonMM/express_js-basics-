@@ -1,0 +1,27 @@
+{
+  "name": "express_js",
+  "version": "1.0.0",
+  "description": " node epress framework basics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtonMM/express_js-basics-.git"
+  },
+  "author": "Newton Muthigani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtonMM/express_js-basics-/issues"
+  },
+  "homepage": "https://github.com/newtonMM/express_js-basics-#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
